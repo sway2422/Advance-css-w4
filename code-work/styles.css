@@ -1,0 +1,25 @@
+body{
+margin: 0;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color:gray;
+}
+.white-box{
+  width: 100px;
+  height: 100px;
+  background-color: white;
+}
+.black-box{
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
+.checkerboard {
+  display: grid;
+  grid-template-columns: repeat(8, 40px);
+  grid-template-rows: repeat(8, 40px);
+}
+
+  

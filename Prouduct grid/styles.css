@@ -81,5 +81,15 @@ circle-bg img {
 .description {
   font-size: 1rem;
 }
+table-p,{
+  border-collapse: collapse ;
+  width: 100%;
+  border: 10px:px solid black;
 
+}
+td,th{
+
+
+
+}
 
